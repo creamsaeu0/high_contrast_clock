@@ -1,2 +1,1 @@
-# AOD
-Always On Display
+# 고대비 시계
